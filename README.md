@@ -1,0 +1,3 @@
+CLI
+
+First GO project
